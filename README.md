@@ -4,7 +4,7 @@ A minimalist Todo list, based on the *ncAuth* UI.
 
 ## Usage
 ### CLI
-*ncTodo* acceps a few command line arguments to allow for automated usage.
+*ncTodo* accepts a couple command line arguments, but is intended to be used interactively.
 
 `--help`  
 Prints the help page & exits.
